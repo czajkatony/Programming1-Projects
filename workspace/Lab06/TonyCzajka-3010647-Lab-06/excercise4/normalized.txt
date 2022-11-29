@@ -1,2 +1,0 @@
-Original array: [10, 40, 20, 30, 60]
-Normalized array: [0, 0.6, 0.2, 0.4, 1]
